@@ -4,17 +4,17 @@
     "url": "https://v0-spotify-now-playing-widget-chi.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/v0-spotify-now-playing-widget-chi.vercel.app.ico",
     "slug": "project-d",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 599,
-    "timeWeek": 599,
-    "timeMonth": 599,
-    "timeYear": 599,
+    "time": 712,
+    "timeDay": 712,
+    "timeWeek": 712,
+    "timeMonth": 712,
+    "timeYear": 712,
     "dailyMinutesDown": {}
   }
 ]
